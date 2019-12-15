@@ -1,2 +1,2 @@
 # Hwlin
-Saturdat is a good day
+Saturday is a good day
